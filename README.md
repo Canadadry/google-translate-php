@@ -5,6 +5,8 @@ Google Translate PHP
 
 Free Google Translate API PHP Package. Translates totally free of charge.
 
+This is a fork with PR 109 Applied. Waiting for the main repo to merge it.
+
 ---
 
  - **[Installation](#installation)**
